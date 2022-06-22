@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravdutta8012" alt="souravdutta8012" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/satyaki_07" target="blank"><img src="https://img.shields.io/twitter/follow/satyaki_07?logo=twitter&style=for-the-badge" alt="satyaki_07" /></a> </p>
+<p align="left"> <a href="https://twitter.com/souravdutta2108" target="blank"><img src="https://img.shields.io/twitter/follow/souravdutta2108?logo=twitter&style=for-the-badge" alt="souravdutta2108" /></a> </p>
 
-- 📫 How to reach me **satyakibose98@gmail.com**
+- 📫 How to reach me **souravdutta2108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/satyaki_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/twitter.svg " alt="satyaki_07" height="30" width="40" /></a>
+<a href="https://twitter.com/souravdutta2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/twitter.svg " alt="souravdutta2108" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souravdutta8012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg " alt="souravdutta8012" height="30" width="40" /></a>
 </p>
 
