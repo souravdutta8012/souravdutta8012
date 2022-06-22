@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravdutta8012&layout=compact)](https://github.com/souravdutta8012/github-readme-stats)
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravdutta8012&show_icons=true&locale=en" alt="souravdutta8012" /></p> -->
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravdutta8012&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravdutta8012&" alt="souravdutta8012" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravdutta8012&" alt="souravdutta8012" /></p> -->
+[![Sourav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=souravdutta8012&theme=radical)](https://github.com/souravdutta8012/github-readme-stats)
