@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravdutta8012" alt="souravdutta8012" /></a> </p> -->
 
-![Sourav's GitHub trophy](https://github-profile-trophy.vercel.app/?username=souravdutta8012&theme=radical)
+![Sourav's GitHub trophy](https://github-profile-trophy.vercel.app/?username=souravdutta8012&row=2&column=4&theme=radical)
 
 <p align="left"> <a href="https://twitter.com/souravdutta2108" target="blank"><img src="https://img.shields.io/twitter/follow/souravdutta2108?logo=twitter&style=for-the-badge" alt="souravdutta2108" /></a> </p>
 
