@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sourav</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravdutta8012" alt="souravdutta8012" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravdutta8012" alt="souravdutta8012" /></a> </p> -->
+
+![Sourav's GitHub trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)
 
 <p align="left"> <a href="https://twitter.com/souravdutta2108" target="blank"><img src="https://img.shields.io/twitter/follow/souravdutta2108?logo=twitter&style=for-the-badge" alt="souravdutta2108" /></a> </p>
 
