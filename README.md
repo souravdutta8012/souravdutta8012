@@ -18,7 +18,7 @@
 
 [![Sourav's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravdutta8012&layout=compact&theme=radical)](https://github.com/souravdutta8012/github-readme-stats)
 
-![[Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravdutta8012&show_icons=true&theme=radical)](https://github.com/souravdutta8012/github-readme-stats)
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravdutta8012&show_icons=true&theme=radical)
 
 [![Sourav's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=souravdutta8012&theme=radical)](https://github.com/souravdutta8012/github-readme-stats)
 
